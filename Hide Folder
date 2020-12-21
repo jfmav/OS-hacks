@@ -1,0 +1,5 @@
+rem to hide Folder - hide also in Explorer
+attrib +s +h
+
+rem to show hidden Folder
+attrib -s -h Foldername
